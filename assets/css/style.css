@@ -1,0 +1,87 @@
+
+.jumbotron {
+	box-sizing: border-box;
+	height: 600px;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+	font-family: 'Bangers', cursive;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;  
+  }
+
+	body {
+		background: url(../images/nintendochars.jpg);
+		color:red;
+		background-color:white;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center; 
+		font-family: 'Bangers', cursive;
+	}
+	
+	.p{
+		color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+	}
+
+	.mainLogo{
+		margin-left: 225px;
+	}
+  .main-button-container {
+	margin-top: 175px;
+	max-width: 610px;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  
+  .timer-p {
+	margin-top: 40px;
+	font-family: 'Bangers', cursive;
+  }
+  
+  .answer:hover {
+	background: blue;
+  }
+  
+  .answer{
+	padding-top: 7px;
+	height: 45px;
+	color: white;
+	padding-left: 14px;
+	background-color: red;
+	border-color: #080606;
+	/* border-radius: 4px; */
+	font-family: 'Bangers', cursive;
+	}
+	
+	.btn-primary {
+    color: #fff;
+    background-color: red;
+		border-color: #080606;
+	}
+  
+  .img-wrong {
+	margin-top: 40px;
+  }
+  
+  .first-answer {
+	margin-top: 40px;
+  }
+  
+  .reset-button {
+	margin-top: 40px;
+	font-family: 'Bangers', cursive;
+  }
+  
+  .summary-correct {
+	margin-top: 40px;
+  }
+  
+
